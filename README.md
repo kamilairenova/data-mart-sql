@@ -16,4 +16,4 @@ SQL-скрипт для витрины данных в PostgreSQL
   https://www.postgresql.org/docs/current/sql.html
 
 - **Техническое задание**  
-  В `docs/technical_specification.pdf`  
+  В `technical_specification.pdf`  
